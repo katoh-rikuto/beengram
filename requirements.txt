@@ -1,0 +1,6 @@
+asgiref
+Django
+django-cleanup
+Pillow
+python-dotenv
+sqlparse
